@@ -16,19 +16,15 @@ body {
 #timer-1 {
   position: absolute;
   padding: 0px 20px 0px 20px;
-
   border: 1px solid white;
   border-radius: 10px;
-
   height: 60px;
   width: auto;
-
-  background: rgb(27, 27, 27);
+  background: blueviolet;
 }
 
 .field {
   position: relative;
-  display: block;
   float: left;
   padding: 5px;
   width: auto;
@@ -40,7 +36,7 @@ span {
   padding: 0px;
   width: 24px;
   height: 5px;
-
+  font-style: oblique;
   color: #ffffff;
   font-size: 2em;
 }
