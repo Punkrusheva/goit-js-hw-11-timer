@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"kHAAA,mB","file":"main.dd09ed305266e226cb8e.js","sourcesContent":["import './styles.css';\r\n/*\r\nnew CountdownTimer({\r\n  selector: '#timer-1',\r\n  targetDate: new Date('Jul 17, 2019'),\r\n});*/"],"sourceRoot":""}
